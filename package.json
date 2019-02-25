@@ -1,0 +1,15 @@
+{
+  "name": "wechat-miniprogram-typings",
+  "version": "1.0.0",
+  "description": "WeChat Miniprogram Typescript Declarations",
+  "main": "",
+  "scripts": {
+    "test": ""
+  },
+  "keywords": [
+    "WeChat",
+    "Miniprogram"
+  ],
+  "author": "Jieyou Xu",
+  "license": "MIT"
+}
